@@ -10,7 +10,6 @@ Copy–paste into `README.md`:
 It brings together seamless communication, intelligent search, emergency alerts, and a smooth patient–doctor experience.
 
 🌐 **Live Application:** [https://medi-meet-seven.vercel.app/](https://medi-meet-seven.vercel.app/)
-🔐 **Admin Dashboard:** *(Add your admin link if required)*
 
 ---
 
