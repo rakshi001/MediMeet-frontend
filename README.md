@@ -60,14 +60,7 @@ It brings together seamless communication, intelligent search, emergency alerts,
 | **Maps**          | Google Maps API                  |
 | **Deployment**    | Vercel                           |
 
----
 
-## 📽️ Project Demo
-
-*(Add your demo video link if you want)*
-This demo showcases doctor booking, chat, video calls, payments, SOS alerts, and admin management.
-
----
 
 ## 📌 Notes
 
