@@ -1,9 +1,3 @@
-Here is a **clean, polished, PR-friendly README** for your project **Medimeet** — with NO setup instructions, NO old names, and including your **new live link**.
-
-Copy–paste into `README.md`:
-
----
-
 # 🏥 Medimeet – Full-Stack Smart Healthcare Management System
 
 **Medimeet** is a modern full-stack healthcare platform designed to streamline doctor appointments, real-time consultations, emergency assistance, and secure digital health services.
@@ -11,7 +5,7 @@ It brings together seamless communication, intelligent search, emergency alerts,
 
 🌐 **Live Application:** [https://medi-meet-seven.vercel.app/](https://medi-meet-seven.vercel.app/)
 
----
+
 
 ## 🚀 Key Features
 
