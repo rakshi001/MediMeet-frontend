@@ -88,5 +88,3 @@ Feel free to open issues or submit pull requests.
 If you like Medimeet, consider **starring the repository** ⭐ to support future improvements.
 
 ---
-
-If you want a **more stylish version**, a **banner/logo**, or a **README with screenshots**, just tell me!
